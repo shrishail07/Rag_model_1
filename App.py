@@ -8,7 +8,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🤖 Groq AI Demo")
+st.title("🤖AI ChatBot")
 st.write("Generate a response using Llama 3.3 70B Versatile")
 
 # Get API key from Streamlit Secrets
